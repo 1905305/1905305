@@ -9,16 +9,16 @@ I build scalable applications and solve complex problems. With internship experi
 ## Professional Experience
 
 **Full-Stack Developer Intern** | HighRadius
-- Developed production features on payment processing systems
-- Optimised database queries and improved system performance
+- Developed features on production payment systems
+- Optimized database queries for improved performance
 - Collaborated with experienced engineers on enterprise-scale applications
-- Learned industry best practices for code quality and scalability
+- Learned industry standards for code quality and scalability
 
 **MERN Stack Developer Intern** | GeeksforGeeks
-- Built features for a platform serving millions of users
-- Fast-paced environment requiring rapid iteration and problem-solving
-- Worked on real-world challenges in user-facing features
-- Developed understanding of scale and performance optimisation
+- Built features for an active user platform
+- Worked in fast-paced environment with rapid iteration cycles
+- Solved real-world challenges in user-facing features
+- Developed understanding of performance optimization at scale
 
 ---
 
@@ -27,38 +27,40 @@ I build scalable applications and solve complex problems. With internship experi
 ### Shopnix - Full-Stack E-Commerce Platform
 **Technologies:** React, Node.js, Express, TypeScript, Firestore, Stripe, Google OAuth, Vercel
 
-Complete e-commerce system built from requirements to production deployment. Features include product catalog, shopping cart, secure checkout flow, and integrated Stripe payment processing. Demonstrates full-stack development capabilities, including frontend optimisation, backend API design, database modelling, and payment integration.
+Complete e-commerce system built from requirements to production. Includes product catalog, shopping cart, secure checkout flow, and Stripe payment integration. Demonstrates full-stack capabilities including frontend performance, backend API design, database architecture, and payment processing.
 
 **Key accomplishments:**
-- Implemented Stripe payment integration with proper error handling
+- Implemented Stripe payment integration with error handling
 - Designed Firestore schema for scalability
 - Built responsive UI with React and TypeScript
 - Deployed to production on Vercel
 
 **Live:** shopnix-e-commerce.vercel.app
 
+---
+
 
 
 ### ProctorVision - Real-Time Video Proctoring System
 **Technologies:** React, Node.js, TensorFlow.js, YOLO, WebRTC, Canvas API
 
-Real-time proctoring system that uses machine learning for exam integrity. Detects eye movement and verifies face presence during exams. Demonstrates ability to integrate ML models into web applications and handle real-time video processing.
+Real-time proctoring system using machine learning for exam integrity. Detects eye movement and verifies face presence during exams. Shows ability to integrate ML models into web applications and handle real-time video processing.
 
 **Key accomplishments:**
 - Integrated TensorFlow.js for client-side face detection
-- Implemented YOLO for eye movement tracking
+- Implemented YOLO for eye tracking
 - Built WebRTC streaming pipeline
-- Processed real-time video data with <50ms latency
-- Maintained a privacy-first approach with local processing
+- Processed real-time video with <50ms latency
+- Maintained privacy-first approach with local processing
 
 ---
 
 ### Multi-AI Chrome Extension
 **Technologies:** JavaScript, Chrome APIs, Multiple AI Services
 
-Productivity tool published on the Chrome Web Store. Demonstrates understanding of browser APIs, UX constraints, and ability to ship consumer-facing products.
+Productivity tool published on Chrome Web Store. Demonstrates understanding of browser APIs, UX constraints, and ability to ship consumer-facing products.
 
-**Achievement:** Published on the official Chrome Web Store
+**Achievement:** Published on Chrome Web Store
 
 ---
 
@@ -76,17 +78,17 @@ Productivity tool published on the Chrome Web Store. Demonstrates understanding 
 
 **APIs & Integration:** Stripe, Razorpay, Google OAuth, WebRTC
 
-**Specialisations:** MERN architecture, system design, algorithm optimisation, real-time systems
+**Specializations:** MERN architecture, system design, algorithm optimization, real-time systems
 
 ---
 
 ## Competitive Programming
 
-237+ LeetCode problems solved with focus on depth over volume. The approach emphasises pattern recognition and understanding underlying algorithms rather than memorisation. Regularly participates in competitive programming to maintain sharp algorithmic thinking and apply learnings to production systems.
+237+ LeetCode problems solved with focus on depth over volume. Approach emphasizes pattern recognition and understanding algorithms rather than memorization. Participates in weekly competitive programming to maintain algorithmic thinking and apply learnings to engineering problems.
 
-**Focus areas:** Graph algorithms, dynamic programming, system design patterns, optimisation techniques
+**Focus areas:** Graph algorithms, dynamic programming, system design patterns, optimization techniques
 
-This keeps the algorithmic foundation strong and helps solve complex engineering problems effectively.
+This keeps algorithmic foundation strong and helps solve complex engineering problems effectively.
 
 ---
 
@@ -103,13 +105,13 @@ CGPA: 8.70
 
 ## Skills & Competencies
 
-**Software Architecture:** Full-stack system design, API design, database modelling, RBAC implementation
+**Software Architecture:** Full-stack system design, API design, database modeling, RBAC implementation
 
-**Problem Solving:** Algorithm design, optimisation, debugging, system troubleshooting
+**Problem Solving:** Algorithm design, optimization, debugging, system troubleshooting
 
 **Development Practices:** Version control, CI/CD, code review, testing, documentation
 
-**Performance:** Database optimisation, query optimisation, frontend optimisation, caching strategies
+**Performance:** Database optimization, query optimization, frontend optimization, caching strategies
 
 **Real-time Systems:** WebSocket implementation, WebRTC integration, streaming data
 
@@ -117,17 +119,17 @@ CGPA: 8.70
 
 ## Current Learning Focus
 
-Currently deepening expertise in:
+Deepening expertise in:
 - System design at scale
 - Cloud infrastructure (AWS, GCP)
-- Advanced backend optimisation
+- Advanced backend optimization
 - Code maintainability and testing practices
 
 ---
 
 ## Professional Philosophy
 
-I approach software development with a focus on:
+I approach software development with focus on:
 - Understanding the why behind technical decisions
 - Writing code that balances performance with maintainability
 - Building systems that scale thoughtfully
@@ -146,8 +148,8 @@ I approach software development with a focus on:
 
 **LeetCode:** leetcode.com/u/anishxavier12
 
-Open to opportunities in backend development, full-stack roles, and positions with companies building meaningful products.
+Open to opportunities in backend development, full-stack roles, and positions with companies solving meaningful problems.
 
 ---
 
-**Currently available for full-time opportunities and technical discussions.**
+**Available for full-time opportunities and technical discussions.**
