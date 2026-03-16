@@ -10,15 +10,15 @@ I build scalable applications and solve complex problems. With internship experi
 
 **Full-Stack Developer Intern** | HighRadius
 - Developed production features on payment processing systems
-- Optimized database queries and improved system performance
+- Optimised database queries and improved system performance
 - Collaborated with experienced engineers on enterprise-scale applications
 - Learned industry best practices for code quality and scalability
 
 **MERN Stack Developer Intern** | GeeksforGeeks
-- Built features for platform serving millions of users
+- Built features for a platform serving millions of users
 - Fast-paced environment requiring rapid iteration and problem-solving
 - Worked on real-world challenges in user-facing features
-- Developed understanding of scale and performance optimization
+- Developed understanding of scale and performance optimisation
 
 ---
 
@@ -27,7 +27,7 @@ I build scalable applications and solve complex problems. With internship experi
 ### Shopnix - Full-Stack E-Commerce Platform
 **Technologies:** React, Node.js, Express, TypeScript, Firestore, Stripe, Google OAuth, Vercel
 
-Complete e-commerce system built from requirements to production deployment. Features include product catalog, shopping cart, secure checkout flow, and integrated Stripe payment processing. Demonstrates full-stack development capabilities including frontend optimization, backend API design, database modeling, and payment integration.
+Complete e-commerce system built from requirements to production deployment. Features include product catalog, shopping cart, secure checkout flow, and integrated Stripe payment processing. Demonstrates full-stack development capabilities, including frontend optimisation, backend API design, database modelling, and payment integration.
 
 **Key accomplishments:**
 - Implemented Stripe payment integration with proper error handling
@@ -37,22 +37,7 @@ Complete e-commerce system built from requirements to production deployment. Fea
 
 **Live:** shopnix-e-commerce.vercel.app
 
----
 
-### HireEdge - Job Portal for Indian Freshers
-**Technologies:** Next.js, Node.js, Supabase, Razorpay, TypeScript, Role-Based Access Control
-
-Job portal addressing a specific market gap for entry-level professionals. Architected with complex features including role-based access control, multi-tenant admin panel, employer dashboard, and payment integration. Demonstrates system design thinking and ability to manage feature complexity.
-
-**Key accomplishments:**
-- Designed and implemented role-based access control (RBAC) system
-- Built admin panel with content management capabilities
-- Integrated Razorpay for payment processing
-- Created responsive interfaces for multiple user types
-
-**Status:** Admin panel and user portal deployed
-
----
 
 ### ProctorVision - Real-Time Video Proctoring System
 **Technologies:** React, Node.js, TensorFlow.js, YOLO, WebRTC, Canvas API
@@ -64,16 +49,16 @@ Real-time proctoring system that uses machine learning for exam integrity. Detec
 - Implemented YOLO for eye movement tracking
 - Built WebRTC streaming pipeline
 - Processed real-time video data with <50ms latency
-- Maintained privacy-first approach with local processing
+- Maintained a privacy-first approach with local processing
 
 ---
 
 ### Multi-AI Chrome Extension
 **Technologies:** JavaScript, Chrome APIs, Multiple AI Services
 
-Productivity tool published on Chrome Web Store. Demonstrates understanding of browser APIs, UX constraints, and ability to ship consumer-facing products.
+Productivity tool published on the Chrome Web Store. Demonstrates understanding of browser APIs, UX constraints, and ability to ship consumer-facing products.
 
-**Achievement:** Published on official Chrome Web Store
+**Achievement:** Published on the official Chrome Web Store
 
 ---
 
@@ -91,17 +76,17 @@ Productivity tool published on Chrome Web Store. Demonstrates understanding of b
 
 **APIs & Integration:** Stripe, Razorpay, Google OAuth, WebRTC
 
-**Specializations:** MERN architecture, system design, algorithm optimization, real-time systems
+**Specialisations:** MERN architecture, system design, algorithm optimisation, real-time systems
 
 ---
 
 ## Competitive Programming
 
-237+ LeetCode problems solved with focus on depth over volume. Approach emphasizes pattern recognition and understanding underlying algorithms rather than memorization. Regularly participates in competitive programming to maintain sharp algorithmic thinking and apply learnings to production systems.
+237+ LeetCode problems solved with focus on depth over volume. The approach emphasises pattern recognition and understanding underlying algorithms rather than memorisation. Regularly participates in competitive programming to maintain sharp algorithmic thinking and apply learnings to production systems.
 
-**Focus areas:** Graph algorithms, dynamic programming, system design patterns, optimization techniques
+**Focus areas:** Graph algorithms, dynamic programming, system design patterns, optimisation techniques
 
-This keeps algorithmic foundation strong and helps solve complex engineering problems effectively.
+This keeps the algorithmic foundation strong and helps solve complex engineering problems effectively.
 
 ---
 
@@ -118,13 +103,13 @@ CGPA: 8.70
 
 ## Skills & Competencies
 
-**Software Architecture:** Full-stack system design, API design, database modeling, RBAC implementation
+**Software Architecture:** Full-stack system design, API design, database modelling, RBAC implementation
 
-**Problem Solving:** Algorithm design, optimization, debugging, system troubleshooting
+**Problem Solving:** Algorithm design, optimisation, debugging, system troubleshooting
 
 **Development Practices:** Version control, CI/CD, code review, testing, documentation
 
-**Performance:** Database optimization, query optimization, frontend optimization, caching strategies
+**Performance:** Database optimisation, query optimisation, frontend optimisation, caching strategies
 
 **Real-time Systems:** WebSocket implementation, WebRTC integration, streaming data
 
@@ -135,14 +120,14 @@ CGPA: 8.70
 Currently deepening expertise in:
 - System design at scale
 - Cloud infrastructure (AWS, GCP)
-- Advanced backend optimization
+- Advanced backend optimisation
 - Code maintainability and testing practices
 
 ---
 
 ## Professional Philosophy
 
-I approach software development with focus on:
+I approach software development with a focus on:
 - Understanding the why behind technical decisions
 - Writing code that balances performance with maintainability
 - Building systems that scale thoughtfully
