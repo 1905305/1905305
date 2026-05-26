@@ -1,155 +1,199 @@
+## Connect With Me
+
+[![Email](https://img.shields.io/badge/anishxavier12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishxavier12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-xavier-xalxo)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anishxavier12/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anishxalxoporfolio.netlify.app/)
+
+---
+
+<div align="center">
+
 # Anish Xavier Xalxo
 
-**Full-Stack Engineer | MERN Specialist | Competitive Programmer**
+### Full-Stack Software Engineer | Cloud Enthusiast
 
-I build scalable applications and solve complex problems. With internship experience at GeeksforGeeks and HighRadius, I've shipped multiple production-ready projects spanning e-commerce, job platforms, and real-time systems. Focused on clean code, system design, and continuous skill development.
+**`< code • build • deploy • scale />`**
 
----
-
-## Professional Experience
-
-**Full-Stack Developer Intern** | HighRadius
-- Developed features on production payment systems
-- Optimized database queries for improved performance
-- Collaborated with experienced engineers on enterprise-scale applications
-- Learned industry standards for code quality and scalability
-
-**MERN Stack Developer Intern** | GeeksforGeeks
-- Built features for an active user platform
-- Worked in fast-paced environment with rapid iteration cycles
-- Solved real-world challenges in user-facing features
-- Developed understanding of performance optimization at scale
+</div>
 
 ---
 
-## Featured Projects
+## About Me
 
-### Shopnix - Full-Stack E-Commerce Platform
-**Technologies:** React, Node.js, Express, TypeScript, Firestore, Stripe, Google OAuth, Vercel
+- B.Tech CSE | KIIT | CGPA: 8.70
+- 2+ years building production-grade applications
+- Top 10% globally on LeetCode (200+ problems solved)
+- AWS Cloud Foundations + Google Associate Cloud Engineer
+- Hyderabad, India
 
-Complete e-commerce system built from requirements to production. Includes product catalog, shopping cart, secure checkout flow, and Stripe payment integration. Demonstrates full-stack capabilities including frontend performance, backend API design, database architecture, and payment processing.
-
-**Key accomplishments:**
-- Implemented Stripe payment integration with error handling
-- Designed Firestore schema for scalability
-- Built responsive UI with React and TypeScript
-- Deployed to production on Vercel
-
-**Live:** shopnix-e-commerce.vercel.app
-
----
-
-
-
-### ProctorVision - Real-Time Video Proctoring System
-**Technologies:** React, Node.js, TensorFlow.js, YOLO, WebRTC, Canvas API
-
-Real-time proctoring system using machine learning for exam integrity. Detects eye movement and verifies face presence during exams. Shows ability to integrate ML models into web applications and handle real-time video processing.
-
-**Key accomplishments:**
-- Integrated TensorFlow.js for client-side face detection
-- Implemented YOLO for eye tracking
-- Built WebRTC streaming pipeline
-- Processed real-time video with <50ms latency
-- Maintained privacy-first approach with local processing
+| | |
+|---|---|
+| Currently Building | Xalvora ERP – Microservices-based ERP for stone industry |
+| Learning | Kubernetes, Advanced System Design, General Ledger Accounting |
+| 2026 Goals | Deploy Xalvora to production, Launch mobile app, Master K8s |
+| Ask me about | Microservices, WebSockets, Payment Integration, System Architecture |
 
 ---
 
-### Multi-AI Chrome Extension
-**Technologies:** JavaScript, Chrome APIs, Multiple AI Services
+## Flagship Project: Xalvora ERP
 
-Productivity tool published on Chrome Web Store. Demonstrates understanding of browser APIs, UX constraints, and ability to ship consumer-facing products.
+**Production-ready, microservices-based ERP system tailored for the natural stone industry**
 
-**Achievement:** Published on Chrome Web Store
+| Feature | Status |
+|---------|--------|
+| Customer Portal + Stone Catalog | Live |
+| Razorpay + Cash on Delivery | Live |
+| Real-time WebSocket Order Tracking | Live |
+| Admin Dashboard + Analytics | Live |
+| HR Module + Attendance + Leave | Live |
+| Payroll (PF/ESI/PT/TDS) | Live |
+| Purchase + Vendor Management | Live |
+| Estimation Calculator + PDF | Live |
+| Delivery Partner App | Live |
+| General Ledger | In Progress |
+| React Native Mobile App | Planned |
+| Cloud Deployment (AWS/OCI) | Planned |
 
----
+**Architecture:**
 
-## Technical Stack
+- Frontend: React 19 + TypeScript + Tailwind CSS + Framer Motion
+- Backend Microservices: Auth(3001), Product(3002), Order(3003), HR(3004), Purchase(3005), General Ledger(3006)
+- Infrastructure: LowDB, Socket.IO, Docker, Razorpay, Nodemailer, PDFKit
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux, HTML5, CSS3
-
-**Backend:** Node.js, Express.js, Python
-
-**Databases:** MongoDB, Firestore, PostgreSQL, MySQL
-
-**DevOps & Infrastructure:** Docker, AWS, GCP, CI/CD pipelines, Git
-
-**Machine Learning:** TensorFlow.js, YOLO, OpenCV
-
-**APIs & Integration:** Stripe, Razorpay, Google OAuth, WebRTC
-
-**Specializations:** MERN architecture, system design, algorithm optimization, real-time systems
-
----
-
-## Competitive Programming
-
-237+ LeetCode problems solved with focus on depth over volume. Approach emphasizes pattern recognition and understanding algorithms rather than memorization. Participates in weekly competitive programming to maintain algorithmic thinking and apply learnings to engineering problems.
-
-**Focus areas:** Graph algorithms, dynamic programming, system design patterns, optimization techniques
-
-This keeps algorithmic foundation strong and helps solve complex engineering problems effectively.
+> *"Building a complete, microservices-based ERP for the stone industry – customer ordering, real-time delivery tracking, Razorpay, HR & payroll, purchase management, and accounting general ledger – using React, Node.js, WebSockets, and Docker."*
 
 ---
 
-## Education
+## Work Experience
 
-**Bachelor of Technology, Computer Science Engineering**
-Kalinga Institute of Industrial Technology (KIIT)
-CGPA: 8.70
+**MERN Stack Developer Intern @ GeeksforGeeks** | Mar 2024 - May 2024
+- Built food-delivery platform supporting 500+ concurrent users in production
+- Optimized MongoDB queries → 30% faster response times
+- JWT authentication + Stripe payment gateway integration
 
-**Certifications:**
-- Passed TCS NQT (Tata Consultancy Services National Qualifier Test)
-
----
-
-## Skills & Competencies
-
-**Software Architecture:** Full-stack system design, API design, database modeling, RBAC implementation
-
-**Problem Solving:** Algorithm design, optimization, debugging, system troubleshooting
-
-**Development Practices:** Version control, CI/CD, code review, testing, documentation
-
-**Performance:** Database optimization, query optimization, frontend optimization, caching strategies
-
-**Real-time Systems:** WebSocket implementation, WebRTC integration, streaming data
+**Full Stack Developer Intern @ HighRadius** | Jan 2022 - Apr 2022
+- AI-driven invoice management → 40% reduction in processing time
+- Integrated 20+ REST APIs + 15+ UI modules → MVP in 10 weeks
+- Cross-functional collaboration on critical production issues
 
 ---
 
-## Current Learning Focus
+## Technical Arsenal
 
-Deepening expertise in:
-- System design at scale
-- Cloud infrastructure (AWS, GCP)
-- Advanced backend optimization
-- Code maintainability and testing practices
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C" />&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vue" height="40" alt="Vue.js" title="Vue.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" title="Redux" />&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />&nbsp;
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" />&nbsp;
+<img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" title="GraphQL" />&nbsp;
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" />&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" title="Redis" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" />&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud" title="Google Cloud" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes" />&nbsp;
+<img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" title="Terraform" />&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" />&nbsp;
+
+**Tools & Payments**
+
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" title="Vite" />&nbsp;
+<img src="https://skillicons.dev/icons?i=webpack" height="40" alt="Webpack" title="Webpack" />&nbsp;
+
+**ML & AI**
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow" />&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch" />&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" title="OpenCV" />&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="scikit-learn" title="scikit-learn" />&nbsp;
 
 ---
 
-## Professional Philosophy
+## Project Portfolio
 
-I approach software development with focus on:
-- Understanding the why behind technical decisions
-- Writing code that balances performance with maintainability
-- Building systems that scale thoughtfully
-- Continuous learning and improvement
-- Clear communication and collaboration
-
----
-
-## Get In Touch
-
-**Email:** anishxavier12@gmail.com
-
-**Portfolio:** anishxalxoporfolio.netlify.app
-
-**LinkedIn:** linkedin.com/in/anish-xavier-xalxo
-
-**LeetCode:** leetcode.com/u/anishxavier12
-
-Open to opportunities in backend development, full-stack roles, and positions with companies solving meaningful problems.
+| Project | Tech Stack | Links |
+|---------|------------|-------|
+| Xalvora ERP | React, Node.js, Microservices, WebSockets, Razorpay, Docker | Active Development |
+| ProctorVision | TensorFlow.js, YOLO, WebRTC, Firebase | [GitHub Repo](https://github.com/1905305/1905305-ProctorVisionRecorderpro) |
+| Shopnix | React, Firestore, Stripe, Google OAuth | [Live Demo](https://shopnix-e-commerce.vercel.app/) |
+| Food Website | React, Tailwind CSS | [Live Demo](https://food-website-seven-inky.vercel.app/home) |
+| Disease Risk Analysis | SVM, Random Forest, scikit-learn | 82% accuracy |
+| Multi-AI Extension | Chrome APIs, REST APIs | Published on Web Store |
 
 ---
 
-**Available for full-time opportunities and technical discussions.**
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1905305&show_icons=true&theme=github_dark&hide_border=true&icon_color=6A0DAD&title_color=6A0DAD)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=1905305&theme=github-dark&hide_border=true&ring=6A0DAD&fire=6A0DAD&currStreakLabel=6A0DAD)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1905305&theme=github_dark&hide_border=true&layout=compact&title_color=6A0DAD)
+
+</div>
+
+---
+
+## Certifications
+
+- AWS Cloud Foundations – Amazon Web Services
+- Google Associate Cloud Engineer – Google Cloud
+- Full-Stack Web Development Bootcamp
+- Cisco Cybersecurity Essentials – Cisco
+
+---
+
+## Let's Connect
+
+- Email: anishxavier12@gmail.com
+- Portfolio: anishxalxoporfolio.netlify.app
+- LinkedIn: linkedin.com/in/anish-xavier-xalxo
+- LeetCode: leetcode.com/u/anishxavier12
+- GitHub: github.com/1905305
+
+---
+
+<div align="center">
+
+### Open for Full-time Opportunities & Technical Discussions
+
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-4CAF50?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:anishxavier12@gmail.com)
+
+**Visitor Count**  
+![Visitor Count](https://komarev.com/ghpvc/?username=1905305&color=6A0DAD&style=for-the-badge)
+
+`< code • build • deploy • scale />`
+
+</div>
